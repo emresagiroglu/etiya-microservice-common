@@ -1,4 +1,4 @@
-package io.github.emresagiroglu.customer;
+package io.github.emresagiroglu.kafka.events.customer;
 
 import java.time.LocalDateTime;
 

@@ -1,4 +1,4 @@
-package io.github.emresagiroglu.contactinformation;
+package io.github.emresagiroglu.kafka.events.contactinformation;
 
 
 public class ContactInformationUpdatedEvent {

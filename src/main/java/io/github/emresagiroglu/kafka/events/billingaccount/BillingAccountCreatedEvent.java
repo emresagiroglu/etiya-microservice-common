@@ -1,4 +1,4 @@
-package io.github.emresagiroglu.billingaccount;
+package io.github.emresagiroglu.kafka.events.billingaccount;
 
 
 public class BillingAccountCreatedEvent {
